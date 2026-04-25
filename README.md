@@ -43,3 +43,4 @@ The goal is to create an *illusion of presence*, not just text-based replies.
 ---
 
 ## 🏗️ Architecture
+# hologram-virtual
